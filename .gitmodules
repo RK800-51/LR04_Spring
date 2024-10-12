@@ -1,0 +1,6 @@
+[submodule "LR04_service1"]
+	path = LR04_service1
+	url = git@github.com:RK800-51/LR04_service1.git
+[submodule "LR04_service2"]
+	path = LR04_service2
+	url = git@github.com:RK800-51/LR04_service2.git
